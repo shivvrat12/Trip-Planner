@@ -31,7 +31,7 @@ Trip Planner is a mobile application designed to make trip planning easy and col
 | Login Screen               | Trip List                  | Trip Details                |
 |----------------------------|----------------------------|-----------------------------|
 | ![Login Screen][Screenshot_20241205-230601_Trip Planner](https://github.com/user-attachments/assets/7ccef495-3350-4a5f-9bf4-6e1d0a787265)
- | ![Trip List]([screenshots/trip_list.png](https://github.com/shivvrat12/Images/blob/main/Screenshot_20241205-230601_Trip%20Planner.png?raw=true)) | ![Trip Details](screenshots/trip_details.png) |
+ | ![Trip List][([screenshots/trip_list.png](https://github.com/shivvrat12/Images/blob/main/Screenshot_20241205-230601_Trip%20Planner.png?raw=true)](https://github.com/shivvrat12/Images/blob/main/Screenshot_20241205-230513_Trip%20Planner.png?raw=true)) | ![Trip Details](screenshots/trip_details.png) |
 
 ---
 
